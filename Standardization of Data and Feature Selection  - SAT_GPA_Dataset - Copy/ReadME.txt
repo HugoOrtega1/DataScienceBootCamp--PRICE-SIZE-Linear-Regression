@@ -1,0 +1,2 @@
+In this repository I am going through a course exersise learning naming convention of "weight" and "Bias: and utilizing feature selection through 
+standardized data.The higher the weight the more usefull
