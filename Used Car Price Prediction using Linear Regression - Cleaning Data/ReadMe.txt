@@ -1,0 +1,1 @@
+In this repository I go through a course practical example of pre-proccessing data 
